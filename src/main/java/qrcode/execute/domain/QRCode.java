@@ -1,4 +1,4 @@
-package qrcode.domain.domain;
+package qrcode.execute.domain;
 
 import lombok.Data;
 

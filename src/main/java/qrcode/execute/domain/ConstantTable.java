@@ -1,4 +1,4 @@
-package qrcode.domain.domain;
+package qrcode.execute.domain;
 
 import java.io.File;
 

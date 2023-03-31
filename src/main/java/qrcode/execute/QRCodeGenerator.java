@@ -1,7 +1,7 @@
-package qrcode.domain;
+package qrcode.execute;
 
-import qrcode.domain.domain.QRCode;
-import qrcode.domain.domain.Version;
+import qrcode.execute.domain.QRCode;
+import qrcode.execute.domain.Version;
 
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
