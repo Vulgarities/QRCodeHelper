@@ -11,3 +11,4 @@
 
 
 >https://coolshell.cn/articles/10590.html
+></br>https://www.thonky.com/qr-code-tutorial/

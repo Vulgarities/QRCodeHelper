@@ -1,14 +1,12 @@
 package qrcode.domain;
 
-import lombok.Builder;
 import lombok.Data;
-
-import java.util.Arrays;
+import qrcode.domain.util.Version;
 
 @Data
 public class QRCode {
     private byte[] data;
-    private int version = 1; // 1-40
+    private Version version = Version.VERSION_1; // 1-40
 
 
 
