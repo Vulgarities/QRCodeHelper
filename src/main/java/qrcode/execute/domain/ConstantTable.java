@@ -1,6 +1,4 @@
-package qrcode.domain.util;
-
-import lombok.AllArgsConstructor;
+package qrcode.domain.domain;
 
 import java.io.File;
 
